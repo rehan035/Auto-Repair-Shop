@@ -1,0 +1,6 @@
+{
+  "name": "EDITION-1 ATELIER | Precision Garage & Auto Workshop Sialkot",
+  "description": "Professional automotive diagnostics, mechanical repairs, hybrid/EV calibration, and preventive service in Sialkot Cantonment engineered to European paddock standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
